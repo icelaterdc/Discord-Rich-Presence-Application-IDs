@@ -102,3 +102,7 @@ client.login({ clientId }).catch(console.error);
 ---
 
 💡 *Maintained for developers, bot creators, and enthusiasts who want easy access to verified Discord Rich Presence IDs.*
+
+---
+
+Made by ♥️ [IceLater](https://github.com/icelaterdc)
