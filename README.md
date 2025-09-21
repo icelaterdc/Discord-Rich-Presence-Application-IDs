@@ -8,7 +8,7 @@ The list is split into two categories:
 
 ---
 
-## ✅ Verified Application IDs (Unique)
+## ✅ Verified Application IDs
 Below is a collection of verified Rich Presence Application IDs for popular PC games.
 
 | Game Title                        | Application ID        |
